@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace EntityLayer.Concrete
 {
-    class reshberler
+    public class reshberler
     {
+        [Key]
         public int ID { get; set; }
         public string Isim { get; set; }
         public string Aciklama { get; set; }
