@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JvN4qQQrErx+uTIFCVTjwLEkl3jnsXXIFDfwoqjhOwISHO7LFSy+nFs3s6cChdaLqKacppjoU2cMVHLiw3FaBw==",
+  "dgSpecHash": "MaXlh2EXzWkmDbDNWlkwX0a+IUiyDfo36UlzSyN9Uu8v1L68J0QeVrGxRudwlRU4WEYyg9ebn6lsUEjT8T8eKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DOKÜMANTASYON\\source\\repos\\-Asp_Net_Core\\acenta\\BusinesLayer\\BusinesLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DOKÜMANTASYON\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\DOKÜMANTASYON\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\DOKÜMANTASYON\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\DOKÜMANTASYON\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DOKÜMANTASYON\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\DOKÜMANTASYON\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

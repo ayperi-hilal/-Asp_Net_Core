@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.EntityFramework
 {
-    public class EfhakkindaDal: GenericRepository<about>, IaboutDal
+    public class EfyeniHaberlerDal:GenericRepository<yeniHaberler>, IyeniHaberlerDal
     {
     }
 }
