@@ -13,7 +13,7 @@ namespace EntityLayer.Concrete
         public int ID { get; set; }
         public string sehir { get; set; }
         public string KonaklamaSuresi { get; set; }
-        public double fiyat { get; set; }
+        public float fiyat { get; set; }
         public string resimURL { get; set; }
         public string aciklama { get; set; }
         public int kapasite { get; set; }

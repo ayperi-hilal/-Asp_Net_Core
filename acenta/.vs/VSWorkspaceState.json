@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\BusinesLayer",
     "\\DataAccessLayer",
-    "\\DataAccessLayer\\Abstract",
     "\\DataAccessLayer\\bin",
     "\\DataAccessLayer\\Concrete",
-    "\\DataAccessLayer\\EntityFramework",
-    "\\DataAccessLayer\\obj",
     "\\DataAccessLayer\\Repository"
   ],
   "SelectedNode": "\\acenta.sln",

@@ -168,3 +168,4 @@ C:\Users\DOKÜMANTASYON\source\repos\-Asp_Net_Core\acenta\acenta\obj\Debug\net5.
 C:\Users\DOKÜMANTASYON\source\repos\-Asp_Net_Core\acenta\acenta\obj\Debug\net5.0\Razor\Views\LayoutPartial\_footerPartial.cshtml.g.cs
 C:\Users\DOKÜMANTASYON\source\repos\-Asp_Net_Core\acenta\acenta\obj\Debug\net5.0\Razor\Views\LayoutPartial\_scriptPartial.cshtml.g.cs
 C:\Users\DOKÜMANTASYON\source\repos\-Asp_Net_Core\acenta\acenta\obj\Debug\net5.0\Razor\Views\Shared\Components\_sliderPartial\Default.cshtml.g.cs
+C:\Users\DOKÜMANTASYON\source\repos\-Asp_Net_Core\acenta\acenta\obj\Debug\net5.0\Razor\Views\Shared\Components\_populerYerler\Default.cshtml.g.cs
